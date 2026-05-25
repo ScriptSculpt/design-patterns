@@ -1,0 +1,3 @@
+Welcome to Google Docs!
+[Image: Image.png]
+This is a simple document editor.
