@@ -2,7 +2,7 @@ package practice.strategyDesignPattern.src;
 
 import practice.strategyDesignPattern.src.interfaces.*;
 
-public class Robot {
+public abstract class Robot {
 
     Flyable flyable;
     Walkable walkable;
@@ -25,4 +25,7 @@ public class Robot {
     public void talk() {
         talkable.talk();
     }
+    
+    public abstract void look();
+
 }
