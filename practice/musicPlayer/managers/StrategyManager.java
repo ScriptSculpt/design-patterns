@@ -26,6 +26,6 @@ public class StrategyManager {
     }
 
     public PlayStrategy getStrategy() {
-            return this.currentStrategy;
-        }
+        return this.currentStrategy;
+    }
 }

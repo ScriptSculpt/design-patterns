@@ -6,7 +6,8 @@ public class Paytm implements BankingSystem {
         System.out.println("Processing payment of " + amount + " through Paytm.");
 
         double transactionRate = Math.random() % 100;
-        return transactionRate < 20;
+        // return transactionRate < 20;
+        return false;
     }
     
 }
