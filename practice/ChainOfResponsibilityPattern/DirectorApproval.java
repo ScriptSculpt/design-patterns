@@ -1,4 +1,4 @@
-package practice.ChainOfResponsibilityPattern;
+package practice.chainOfResponsibilityPattern;
 
 public class DirectorApproval extends LeaveApprovalSystem {
     @Override

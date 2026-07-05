@@ -1,4 +1,4 @@
-package practice.TemplateMethodPattern;
+package practice.templateMethodPattern;
 
 public abstract class ModelTrainer {
     protected void loadData() {

@@ -1,4 +1,4 @@
-package practice.ChainOfResponsibilityPattern;
+package practice.chainOfResponsibilityPattern;
 
 public abstract class LeaveApprovalSystem {
     protected LeaveApprovalSystem nextHandler;
