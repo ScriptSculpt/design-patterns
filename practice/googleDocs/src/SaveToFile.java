@@ -9,7 +9,7 @@ public class SaveToFile implements Persistence {
     public void save(String renderDocument) {
         try {
             Files.writeString(Path.of("practice/googleDocs/src/safeDocument.txt"), renderDocument);
-            System.out.println("Document saved successfully.");
+            System.out.println("Document saved successfully to file.");
         } catch (Exception e) {
             System.out.println("Error saving document: " + e.getMessage());
         }

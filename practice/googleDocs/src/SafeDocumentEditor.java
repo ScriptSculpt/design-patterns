@@ -1,7 +1,7 @@
 package practice.googleDocs.src;
 
 public class SafeDocumentEditor {
-    private DocumentContent documentContent = new DocumentContent();
+    private DocumentContent documentContent;
     private Persistence storage;
     private String document;
 
