@@ -1,4 +1,4 @@
-package practice.builderDesignPattern;
+package practice.builderDesignPattern.DirectorBuilderDesignPattern;
 
 public class HttpRequest {
     private String method;

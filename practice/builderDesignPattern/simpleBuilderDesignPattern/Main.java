@@ -1,4 +1,4 @@
-package practice.builderDesignPattern;
+package practice.builderDesignPattern.simpleBuilderDesignPattern;
 
 public class Main {
     public static void main(String[] args) {
